@@ -31,12 +31,6 @@ Nam Hoon Kim, Yeong Seo Kwon, San Hee Kang, Dan Kyung Eum, Jin Hyun Park, and JI
 
 - 모니터링 용 사용자 인터페이스(UI) 개발
 
-## 시스템
-### 구성도
-![image](https://user-images.githubusercontent.com/46476876/107905422-e9e56c80-6f91-11eb-9b4f-04bda8ef0fc2.png)   
-### 알고리즘
-![image](https://user-images.githubusercontent.com/46476876/107905471-0c778580-6f92-11eb-8310-12275bba1373.png)   
-
 ## 개발 환경
 #### Tool
 - MATLAB
@@ -49,5 +43,12 @@ Nam Hoon Kim, Yeong Seo Kwon, San Hee Kang, Dan Kyung Eum, Jin Hyun Park, and JI
 - Java
 - C/C#
 
+
+
+## 시스템
+### 구성도
+![image](https://user-images.githubusercontent.com/46476876/107905587-582a2f00-6f92-11eb-801b-5459c9be7a45.png) 
+### 알고리즘
+![image](https://user-images.githubusercontent.com/46476876/107905585-56606b80-6f92-11eb-9aef-4e60aa658200.png)
 
 
