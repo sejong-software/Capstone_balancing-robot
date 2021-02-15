@@ -57,9 +57,7 @@ Nam Hoon Kim, Yeong Seo Kwon, San Hee Kang, Dan Kyung Eum, Jin Hyun Park, and JI
 ### 실험
 ![image](https://user-images.githubusercontent.com/46476876/107905785-e2729300-6f92-11eb-955c-11dfb97af4fc.png)
 ### 모니터링 SW
-#### 웹
+#### 웹/APP
 ![image](https://user-images.githubusercontent.com/46476876/107906204-e226c780-6f93-11eb-9f6e-4eacfc8b3695.png)
-#### APP
-
 ![image](https://user-images.githubusercontent.com/46476876/107906273-05517700-6f94-11eb-8fd1-ee3640a352bc.png)
 
