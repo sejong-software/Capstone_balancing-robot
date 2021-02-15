@@ -9,8 +9,6 @@
 - 엄단경
 - 박진현  pk000983@naver.com
 
-### 논문
-Nam Hoon Kim, Yeong Seo Kwon, San Hee Kang, Dan Kyung Eum, Jin Hyun Park, and JIn Woo Song, "Self-Balancing Robot Control System Using Reinforcement Learning," The 51st KIEE Summer Conference 2020, Busan, Korea, July 15-17, 2020. [논문](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10440108)  
 
 
 ## 목표
@@ -51,4 +49,15 @@ Nam Hoon Kim, Yeong Seo Kwon, San Hee Kang, Dan Kyung Eum, Jin Hyun Park, and JI
 ### 알고리즘
 ![image](https://user-images.githubusercontent.com/46476876/107905585-56606b80-6f92-11eb-9aef-4e60aa658200.png)
 
+
+## 결과물
+### 논문
+Nam Hoon Kim, Yeong Seo Kwon, San Hee Kang, Dan Kyung Eum, Jin Hyun Park, and JIn Woo Song, "Self-Balancing Robot Control System Using Reinforcement Learning," The 51st KIEE Summer Conference 2020, Busan, Korea, July 15-17, 2020. [논문](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10440108)  
+### 실험
+![image](https://user-images.githubusercontent.com/46476876/107905785-e2729300-6f92-11eb-955c-11dfb97af4fc.png)
+### 모니터링 SW
+#### 웹
+![image](https://user-images.githubusercontent.com/46476876/107905854-03d37f00-6f93-11eb-92b3-5cc7b0953fb0.png)
+#### APP
+![image](https://user-images.githubusercontent.com/46476876/107905872-12ba3180-6f93-11eb-9037-e95485395b7e.png)
 
