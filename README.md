@@ -57,7 +57,8 @@ Nam Hoon Kim, Yeong Seo Kwon, San Hee Kang, Dan Kyung Eum, Jin Hyun Park, and JI
 ![image](https://user-images.githubusercontent.com/46476876/107905785-e2729300-6f92-11eb-955c-11dfb97af4fc.png)
 ### 모니터링 SW
 #### 웹
-![image](https://user-images.githubusercontent.com/46476876/107905854-03d37f00-6f93-11eb-92b3-5cc7b0953fb0.png)
+![image](https://user-images.githubusercontent.com/46476876/107906204-e226c780-6f93-11eb-9f6e-4eacfc8b3695.png)
 #### APP
-![image](https://user-images.githubusercontent.com/46476876/107905872-12ba3180-6f93-11eb-9037-e95485395b7e.png)
+
+![image](https://user-images.githubusercontent.com/46476876/107906273-05517700-6f94-11eb-8fd1-ee3640a352bc.png)
 
