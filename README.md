@@ -32,7 +32,10 @@ Nam Hoon Kim, Yeong Seo Kwon, San Hee Kang, Dan Kyung Eum, Jin Hyun Park, and JI
 - 모니터링 용 사용자 인터페이스(UI) 개발
 
 ## 시스템
-![image](https://user-images.githubusercontent.com/46476876/107905145-42683a00-6f91-11eb-8420-38be01907a96.png)
+### 구성도
+![image](https://user-images.githubusercontent.com/46476876/107905422-e9e56c80-6f91-11eb-9b4f-04bda8ef0fc2.png)   
+### 알고리즘
+![image](https://user-images.githubusercontent.com/46476876/107905471-0c778580-6f92-11eb-8310-12275bba1373.png)   
 
 ## 개발 환경
 #### Tool
